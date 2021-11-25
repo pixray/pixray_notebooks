@@ -1,4 +1,4 @@
-# This is where the pixraw demo notebooks go
+# This is where the pixray demo notebooks go
 
 | Demo  | Colab Link |
 | ------------- | ------------- |
